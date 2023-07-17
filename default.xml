@@ -85,7 +85,7 @@
   <project name="android_vendor_qcom_proprietary_video-devicetree" path="vendor/qcom/proprietary/video-devicetree" remote="oplus-sm8450-kernel"/>
 
   <!-- QCOM common -->
-  <project name="device/qcom/common" revision="c8728cb5d763705a7b1e0501c1f9fbc06cbb4fb3" upstream="refs/heads/qcom-devices.lnx.7.0.r1-rel" remote="clo"/>
+  <project name="android_device_qcom_common" path="device/qcom/common" remote="oplus-sm8450-kernel"/>
 
   <!-- Build script -->
   <project name="kernel_platform_script" path="kernel_platform/script" remote="oplus-sm8450-kernel">
